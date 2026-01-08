@@ -1,0 +1,13 @@
+# Stylised parameters for educational trajectory calibration
+# These parameters are calibrated from documented empirical ranges
+# reported in international education statistics (UNESCO, UIS, World Bank).
+
+hazard_low: 0.12
+hazard_high: 0.04
+
+ai_effect_low: 0.06
+ai_effect_high: -0.02
+
+time_horizon:
+  start: 0
+  end: 10
